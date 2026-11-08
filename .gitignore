@@ -1,0 +1,25 @@
+
+# Raw and processed datasets
+data/
+*.csv
+*.parquet
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+.env
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+notebooks/.tmp/
+
+# Machine learning outputs
+catboost_info/
+models/
+*.pkl
+*.joblib
+
+# Other temporary files
+*.log
+.DS_Store
