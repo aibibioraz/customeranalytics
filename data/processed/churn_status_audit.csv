@@ -1,0 +1,153 @@
+operation_type,transaction_status,transactions,share_success
+ATM Cash withdrawal,AUSR0401,20003,1.0
+ATM Cash withdrawal,Успешные,11293,1.0
+ATM Cash withdrawal,RESP0002,5563,0.0
+ATM Cash withdrawal,RESP7138,2660,0.0
+ATM Cash withdrawal,RESP7150,2416,0.0
+ATM Cash withdrawal,RESP7152,2225,0.0
+ATM Cash withdrawal,RESP7186,1052,0.0
+ATM Cash withdrawal,RESP7163,266,0.0
+ATM Cash withdrawal,RESP7079,88,0.0
+ATM Cash withdrawal,RESP0043,50,0.0
+ATM Cash withdrawal,RESP7063,15,0.0
+ATM Cash withdrawal,RESP7187,9,0.0
+ATM Cash withdrawal,RESP7012,8,0.0
+ATM Cash withdrawal,RESP7137,8,0.0
+ATM Cash withdrawal,RESP0013,7,0.0
+ATM Cash withdrawal,RESP7155,6,0.0
+ATM Cash withdrawal,RESP7171,5,0.0
+ATM Cash withdrawal,RESP7140,3,0.0
+ATM Cash withdrawal,RESP7148,3,0.0
+ATM Cash withdrawal,RESP7193,3,0.0
+ATM Cash withdrawal,RESP7062,1,0.0
+ATM Cash withdrawal,RESP7174,1,0.0
+Cash-In,Успешные,17472,1.0
+Cash-In,RESP0002,416,0.0
+Cash-In,RESP7138,62,0.0
+Cash-In,RESP7152,11,0.0
+Cash-In,RESP7186,8,0.0
+Cash-In,RESP7137,6,0.0
+Cash-In,RESP7133,3,0.0
+Cash-In,RESP7163,2,0.0
+Cash-In,RESP7063,2,0.0
+Cash-In,RESP7079,1,0.0
+P2P Credit,Успешные,858686,1.0
+P2P Credit,RESP7152,3694,0.0
+P2P Credit,RESP0002,2425,0.0
+P2P Credit,RESP7149,672,0.0
+P2P Credit,RESP7140,599,0.0
+P2P Credit,RESP7012,431,0.0
+P2P Credit,RESP7079,305,0.0
+P2P Credit,RESP7163,135,0.0
+P2P Credit,RESP7186,129,0.0
+P2P Credit,RESP7063,81,0.0
+P2P Credit,RESP7062,48,0.0
+P2P Credit,RESP7171,47,0.0
+P2P Credit,RESP7193,40,0.0
+P2P Credit,RESP7151,21,0.0
+P2P Credit,RESP7125,12,0.0
+P2P Credit,RESP7148,6,0.0
+P2P Credit,RESP7187,3,0.0
+P2P Credit,RESP7137,3,0.0
+P2P Credit,RESP7083,3,0.0
+P2P Credit,RESP7076,1,0.0
+P2P Credit,RESP0013,1,0.0
+P2P Debit,Успешные,919180,1.0
+P2P Debit,RESP7152,13940,0.0
+P2P Debit,AUSR0401,8315,1.0
+P2P Debit,RESP7150,4370,0.0
+P2P Debit,RESP7163,1588,0.0
+P2P Debit,RESP0002,1138,0.0
+P2P Debit,RESP7112,889,0.0
+P2P Debit,RESP7012,202,0.0
+P2P Debit,RESP7186,133,0.0
+P2P Debit,RESP7193,41,0.0
+P2P Debit,RESP7062,38,0.0
+P2P Debit,RESP7079,32,0.0
+P2P Debit,RESP7140,19,0.0
+P2P Debit,RESP7187,14,0.0
+P2P Debit,RESP7151,13,0.0
+P2P Debit,RESP7148,10,0.0
+P2P Debit,RESP7171,10,0.0
+P2P Debit,RESP7128,9,0.0
+P2P Debit,RESP7149,4,0.0
+P2P Debit,RESP7137,3,0.0
+P2P Debit,RESP7138,2,0.0
+P2P Debit,RESP7090,2,0.0
+P2P Debit,RESP7125,2,0.0
+POS Cash advance,AUSR0401,1580,1.0
+POS Cash advance,RESP7152,386,0.0
+POS Cash advance,RESP7186,184,0.0
+POS Cash advance,RESP0002,163,0.0
+POS Cash advance,RESP7138,153,0.0
+POS Cash advance,RESP7150,80,0.0
+POS Cash advance,RESP7079,46,0.0
+POS Cash advance,RESP7163,22,0.0
+POS Cash advance,Успешные,15,1.0
+POS Cash advance,RESP7063,5,0.0
+POS Cash advance,RESP7012,2,0.0
+POS Cash advance,RESP7125,1,0.0
+POS Cash advance,RESP7137,1,0.0
+POS Cash advance,RESP7171,1,0.0
+Payment transaction,Успешные,19662,1.0
+Payment transaction,RESP0002,216,0.0
+Payment transaction,RESP7079,19,0.0
+Payment transaction,RESP7012,9,0.0
+Payment transaction,RESP7151,2,0.0
+Payment transaction,RESP7171,2,0.0
+Payment transaction,AUSR0401,2,1.0
+Payment transaction,RESP7062,1,0.0
+Payment transaction,RESP7193,1,0.0
+Payment transaction,RESP7063,1,0.0
+Purchase,AUSR0401,3278597,1.0
+Purchase,RESP7150,391682,0.0
+Purchase,Успешные,99356,1.0
+Purchase,RESP7152,54189,0.0
+Purchase,RESP0002,40674,0.0
+Purchase,RESP7012,9164,0.0
+Purchase,RESP7079,8747,0.0
+Purchase,RESP7140,7299,0.0
+Purchase,RESP7186,5210,0.0
+Purchase,RESP7163,2662,0.0
+Purchase,RESP7138,2360,0.0
+Purchase,RESP7187,2352,0.0
+Purchase,RESP7112,1801,0.0
+Purchase,RESP7171,1061,0.0
+Purchase,RESP7174,286,0.0
+Purchase,RESP7193,215,0.0
+Purchase,RESP7062,165,0.0
+Purchase,AUSR0402,138,0.0
+Purchase,RESP7125,134,0.0
+Purchase,RESP7205,70,0.0
+Purchase,RESP7151,66,0.0
+Purchase,RESP7063,46,0.0
+Purchase,RESP0043,43,0.0
+Purchase,RESP7149,32,0.0
+Purchase,RESP7066,16,0.0
+Purchase,RESP7053,10,0.0
+Purchase,RESP7075,9,0.0
+Purchase,RESP7143,6,0.0
+Purchase,RESP7177,5,0.0
+Purchase,RESP0013,3,0.0
+Purchase,RESP7090,3,0.0
+Purchase,RESP7007,3,0.0
+Purchase,RESP7148,1,0.0
+Purchase,RESP7073,1,0.0
+Purchase,RESP7137,1,0.0
+Purchase return (Credit),AUSR0401,10472,1.0
+Purchase return (Credit),Успешные,298,1.0
+Purchase return (Credit),RESP7186,271,0.0
+Purchase return (Credit),RESP0002,179,0.0
+Purchase return (Credit),RESP7012,50,0.0
+Purchase return (Credit),RESP7079,46,0.0
+Purchase return (Credit),RESP7171,5,0.0
+Purchase return (Credit),RESP7140,4,0.0
+Purchase return (Credit),RESP7090,1,0.0
+Purchase with cashback,RESP7151,3,0.0
+Purchase with cashback,RESP0002,3,0.0
+Transaction Cost Inquiry,Успешные,221704,1.0
+Transaction Cost Inquiry,RESP0002,113,0.0
+Transaction Cost Inquiry,RESP7012,50,0.0
+Transaction Cost Inquiry,RESP7140,14,0.0
+Transaction Cost Inquiry,RESP7070,5,0.0
+Transaction Cost Inquiry,RESP7075,3,0.0
