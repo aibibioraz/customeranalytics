@@ -1,0 +1,9 @@
+pandas>=2.0
+scikit-learn>=1.4
+catboost>=1.2
+streamlit
+plotly
+duckdb
+pandas
+numpy
+scikit-learn
